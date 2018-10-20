@@ -1,0 +1,26 @@
+/* Colors and fonts */
+
+body {
+	background: #EBF7FD;
+	color: rgb(50, 50, 50);
+	font-family: Helvetica;
+	font-size: 17px;
+}
+h1, h2 ,h3 {
+	font-family: Courier
+}
+h1 {
+	color: #233142;
+	font-size: 32px;
+}
+h2 {
+	color: #36506C;
+	font-size: 24px;
+	font-weight: lighter;
+}
+a {
+color: #A5DEF1
+}
+a:hover {
+	color: yellow;
+}
